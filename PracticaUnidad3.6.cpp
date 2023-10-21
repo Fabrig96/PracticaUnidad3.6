@@ -74,5 +74,6 @@ int main() {
 
 		App.display();
 	}
+
 	return 0;
 }
